@@ -6,4 +6,3 @@
 */
 
 #include "adv360.keymap"
-CONFIG_BT_LL_SW_LLCP=y
